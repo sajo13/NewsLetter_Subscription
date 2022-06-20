@@ -11,15 +11,5 @@ class DashboardController extends Controller
             'user' => auth()->user()
         ]);
     }
-    // public function index()
-    // {
-    //     return "<h1> hai </h1>";
-    // }
-
-    public function create()
-    {
-        //
-    }
-
 
 }

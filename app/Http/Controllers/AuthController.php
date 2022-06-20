@@ -7,7 +7,6 @@ use Session;
 
 class AuthController extends Controller
 {
-
     public function show()
     {
         return view('login');
